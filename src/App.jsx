@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 
-const API = "http://localhost:3001/api";
+const API = "https://ratfacts-backend-production.up.railway.app/api";
 
 const TICKER_FACTS = [
   "🐀 Rats cannot vomit. They just have to live with it.",
